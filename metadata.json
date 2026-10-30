@@ -1,0 +1,6 @@
+{
+  "name": "مُلخّص الاجتماعات",
+  "description": "حوّل ملاحظاتك المبعثرة لملخص احترافي في ثواني باستخدام الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
